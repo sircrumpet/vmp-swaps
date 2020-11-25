@@ -13,8 +13,8 @@ jobs:
             head -n 1 VMP_Swaps-old.csv > VMP_Swaps.csv
 
             # Get swaps and append to the log
-            curl "https://www.vinylmeplease.com/collections/swaps?page=1&view=products-swaps.json" | jq -r '.products[].product | [(.title|sub("\""; "")), .vendor, .price/100] | @csv ' >> VMP_Swaps.csv
-            curl "https://www.vinylmeplease.com/collections/swaps?page=2&view=products-swaps.json" | jq -r '.products[].product | [(.title|sub("\""; "")), .vendor, .price/100] | @csv ' >> VMP_Swaps.csv
+            curl "https://www.vinylmeplease.com/collections/swaps?page=1&view=products-swaps.json" | jq -r '.products[].product | [(.title|sub("\""; "")), .vendor, .price/100, "https://www.vinylmeplease.com/products/" + .handle] | @csv ' >> VMP_Swaps.csv
+            curl "https://www.vinylmeplease.com/collections/swaps?page=2&view=products-swaps.json" | jq -r '.products[].product | [(.title|sub("\""; "")), .vendor, .price/100, "https://www.vinylmeplease.com/products/" + .handle] | @csv ' >> VMP_Swaps.csv
 
             git add VMP_Swaps.csv
             git config --global user.email "swapbot@example.com"

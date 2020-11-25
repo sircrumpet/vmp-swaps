@@ -1,89 +1,88 @@
-Title,Artist,Price
-"303 Music, Vol. 3","Various Artists",24
-"A Prince Among Thieves","Prince Paul",47
-"África Brasil","Jorge Ben",39
-"All Hail The Queen","Queen Latifah",39
-"Aromanticism","Moses Sumney",39
-"Be The Cowboy","Mitski",39
-"Betty Davis","Betty Davis",39
-"Big Wave More Fire","DJDS",17
-"Boogie Legs","Jake Sollo",23
-"Buena Vista Social Club","Buena Vista Social Club",47
-"Celia & Johnny","Celia & Johnny",39
-"City Music","Kevin Morby",39
-"Coal Miner's Daughter","Loretta Lynn",39
-"Continuum","John Mayer",47
-"Dirty Projectors Bitte Orca","Dirty Projectors",47
-"Energy Control Center","The Lightmen Plus One",47
-"Fancy Free","Donald Byrd",39
-"Fetch the Bolt Cutters","Fiona Apple",35
-"Fishscale","Ghostface Killah",47
-"Fly or Die","N.E.R.D.",47
-"For the Sake of the Song","Townes Van Zandt",39
-"Free Yourself","Experience Unlimited",39
-"Freedom Suite","Sonny Rollins",39
-"Friend and Foe","Menomena",39
-"Funkdafied","Da Brat",39
-"Hair of the Dog","ARTHUR",25
-"Heavy Axe","David Axelrod",50
-"Here To Stay","Darrell Banks",39
-"High/Low","Nada Surf",39
-"Honest","Future",47
-"I Got What It Takes","Koko Taylor",39
-"I'll Sleep When You're Dead","El-P",47
-"It Serve You Right to Suffer","John Lee Hooker",39
-"Jujus / Alchemy of the Blues","Sarah Webster Fabio",39
-"King","T.I.",47
-"King, Does The King's Things","Albert King",39
-"Let Me Be Your Lover","Patterson Twins",25
-"Long Way Home","Låpsley",39
-"Magician","Erroll Garner",39
-"Mama's Gun","Erykah Badu",47
-"Mavis Staples Mavis Staples","Mavis Staples",39
-"MM..FOOD","MF DOOM",47
-"Money Talks","The Bar-Kays",39
-"Muddy Waters","Redman",47
-"Naked Garden","Lukas Nelson and Promise of the Real",30
-"Next to the Sun","KAINA",27
-"Nothing Great About Britain","slowthai",39
-"Old Flowers","Courtney Marie Andrews",26
-"Phrenology","The Roots",47
-"Pink","Four Tet",39
-"Playroom","Nathan Bajar",22
-"Pleasurehead","Gaygirl",24
-"Posh","Patrice Rushen",23
-"pretty face","Deem Spencer",18
-"Room for the Moon","Kate NV",28
-"Sahara","McCoy Tyner",39
-"Shadow on the Wall","TATYANA",20
-"Silver Bullets","The Silvertones",39
-"So When You Gonna…","Dream Wife",24
-"Sorcery","Jack Dejohnette",50
-"Specialist in All Styles","Orchestra Baobab",35
-"Sprinter","TORRES",39
-"Stankonia","OutKast",47
-"Startisha","Naeem",22
-"Straight From the Heart","Patrice Rushen",39
-"Superstar","Caroline Rose",39
-"Swap for Store Credit","Vinyl Me, Please",0
-"Swim Team","Christelle Bofale",22
-"Swing Lo Magellan","Dirty Projectors",29
-"Teflon Don","Rick Ross",39
-"The Awakening","Lord Finesse",39
-"The Center Won't Hold","Sleater-Kinney",39
-"The Idler Wheel...","Fiona Apple",35
-"The Lemon of Pink","The Books",39
-"The Lost Paramount Tapes","James Booker",39
-"Tidal","Fiona Apple",47
-"U.F.O.","Jim Sullivan",39
-"Unapologetic Art Rap","Open Mike Eagle",47
-"Waiting For Littⅼe Miⅼton","Little Milton",39
-"Waking Hours","Photay",19
-"Watch Out!","Vinyl Me, Please",39
-"Watch this Liquid Pour Itself + Believe 7","Okay Kaya",28
-"Welcome to Bobby's Motel","Pottery",22
-"When The Pawn...","Fiona Apple",40
-"Where I’m Coming From","Leon Spencer",50
-"Wicked City","Jockstrap",18
-"Your Hero Is Not Dead","Westerman",25
-"Yours Conditionally","Tennis",39
+Title,Artist,Price,URL
+"303 Music, Vol. 3","Various Artists",24,"https://www.vinylmeplease.com/products/various-artists-303-music-volume-3"
+"A Prince Among Thieves","Prince Paul",47,"https://www.vinylmeplease.com/products/prince-paul-a-prince-among-thieves"
+"África Brasil","Jorge Ben",39,"https://www.vinylmeplease.com/products/jorge-ben-africa-brasil"
+"All Hail The Queen","Queen Latifah",39,"https://www.vinylmeplease.com/products/queen-latifah-all-hail-the-queen"
+"Aromanticism","Moses Sumney",39,"https://www.vinylmeplease.com/products/moses-sumney-aromanticism"
+"Be The Cowboy","Mitski",39,"https://www.vinylmeplease.com/products/mitski-be-the-cowboy"
+"Betty Davis","Betty Davis",39,"https://www.vinylmeplease.com/products/betty-davis-betty-davis"
+"Big Wave More Fire","DJDS",17,"https://www.vinylmeplease.com/products/djds-big-wave-more-fire"
+"Boogie Legs","Jake Sollo",23,"https://www.vinylmeplease.com/products/jake-sollo-boogie-legs"
+"Buena Vista Social Club","Buena Vista Social Club",47,"https://www.vinylmeplease.com/products/buena-vista-social-club-buena-vista-social-club"
+"Celia & Johnny","Celia & Johnny",39,"https://www.vinylmeplease.com/products/celia-johnny-celia-johnny"
+"City Music","Kevin Morby",39,"https://www.vinylmeplease.com/products/kevin-morby-city-music"
+"Coal Miner's Daughter","Loretta Lynn",39,"https://www.vinylmeplease.com/products/loretta-lynn-coal-miners-daughter"
+"Continuum","John Mayer",47,"https://www.vinylmeplease.com/products/john-mayer-continuum"
+"Dirty Projectors Bitte Orca","Dirty Projectors",47,"https://www.vinylmeplease.com/products/dirty-projectors-bitte-orca"
+"Energy Control Center","The Lightmen Plus One",47,"https://www.vinylmeplease.com/products/the-lightmen-plus-one-energy-control-center"
+"Fancy Free","Donald Byrd",39,"https://www.vinylmeplease.com/products/donald-byrd-fancy-free"
+"Fetch the Bolt Cutters","Fiona Apple",35,"https://www.vinylmeplease.com/products/fiona-apple-fetch-the-bolt-cutters"
+"Fishscale","Ghostface Killah",47,"https://www.vinylmeplease.com/products/ghostface-killah-fishscale"
+"Fly or Die","N.E.R.D.",47,"https://www.vinylmeplease.com/products/n-e-r-d-fly-or-die"
+"For the Sake of the Song","Townes Van Zandt",39,"https://www.vinylmeplease.com/products/townes-van-zandt-for-the-sake-of-the-song"
+"Free Yourself","Experience Unlimited",39,"https://www.vinylmeplease.com/products/experience-unlimited-free-yourself"
+"Freedom Suite","Sonny Rollins",39,"https://www.vinylmeplease.com/products/sonny-rollins-the-freedom-suite"
+"Friend and Foe","Menomena",39,"https://www.vinylmeplease.com/products/menomena-friend-foe"
+"Funkdafied","Da Brat",39,"https://www.vinylmeplease.com/products/da-brat-funkdafied"
+"Hair of the Dog","ARTHUR",25,"https://www.vinylmeplease.com/products/arthur-hair-of-the-dog"
+"Heavy Axe","David Axelrod",50,"https://www.vinylmeplease.com/products/david-axelrod-heavy-axe"
+"Here To Stay","Darrell Banks",39,"https://www.vinylmeplease.com/products/darrell-banks-here-to-stay"
+"High/Low","Nada Surf",39,"https://www.vinylmeplease.com/products/nada-surf-high-low"
+"Honest","Future",47,"https://www.vinylmeplease.com/products/future-honest"
+"I Got What It Takes","Koko Taylor",39,"https://www.vinylmeplease.com/products/koko-taylor-i-got-what-it-takes"
+"I'll Sleep When You're Dead","El-P",47,"https://www.vinylmeplease.com/products/el-p-ill-sleep-when-youre-dead"
+"It Serve You Right to Suffer","John Lee Hooker",39,"https://www.vinylmeplease.com/products/john-lee-hooker-it-serve-you-right-to-suffer"
+"Jujus / Alchemy of the Blues","Sarah Webster Fabio",39,"https://www.vinylmeplease.com/products/sarah-webster-fabio-jujus-alchemy-of-the-blues"
+"King","T.I.",47,"https://www.vinylmeplease.com/products/ti-king"
+"King, Does The King's Things","Albert King",39,"https://www.vinylmeplease.com/products/albert-king-king-does-the-kings-things"
+"Let Me Be Your Lover","Patterson Twins",25,"https://www.vinylmeplease.com/products/patterson-twins-let-me-be-your-lover"
+"Long Way Home","Låpsley",39,"https://www.vinylmeplease.com/products/lapsley-long-way-home"
+"Magician","Erroll Garner",39,"https://www.vinylmeplease.com/products/erroll-garner-magician"
+"Mama's Gun","Erykah Badu",47,"https://www.vinylmeplease.com/products/erykah-badu-mamas-gun"
+"Mavis Staples Mavis Staples","Mavis Staples",39,"https://www.vinylmeplease.com/products/mavis-staples-mavis-staples"
+"Money Talks","The Bar-Kays",39,"https://www.vinylmeplease.com/products/the-bar-kays-money-talks"
+"Muddy Waters","Redman",47,"https://www.vinylmeplease.com/products/redman-muddy-waters"
+"Naked Garden","Lukas Nelson and Promise of the Real",30,"https://www.vinylmeplease.com/products/lukas-nelson-and-promise-of-the-real-naked-garden"
+"Next to the Sun","KAINA",27,"https://www.vinylmeplease.com/products/kaina-next-to-the-sun"
+"Nothing Great About Britain","slowthai",39,"https://www.vinylmeplease.com/products/slowthai-nothing-great-about-britain"
+"Old Flowers","Courtney Marie Andrews",26,"https://www.vinylmeplease.com/products/courtney-marie-andrews-old-flowers"
+"Phrenology","The Roots",47,"https://www.vinylmeplease.com/products/the-roots-phrenology"
+"Pink","Four Tet",39,"https://www.vinylmeplease.com/products/four-tet-pink"
+"Playroom","Nathan Bajar",22,"https://www.vinylmeplease.com/products/nathan-bajar-playroom"
+"Pleasurehead","Gaygirl",24,"https://www.vinylmeplease.com/products/gaygirl-pleasurehead-ep"
+"Posh","Patrice Rushen",23,"https://www.vinylmeplease.com/products/patrice-rushen-posh"
+"pretty face","Deem Spencer",18,"https://www.vinylmeplease.com/products/deem-spencer-pretty-face"
+"Room for the Moon","Kate NV",28,"https://www.vinylmeplease.com/products/kate-nv-room-for-the-moon"
+"Sahara","McCoy Tyner",39,"https://www.vinylmeplease.com/products/mccoy-tyner-sahara"
+"Shadow on the Wall","TATYANA",20,"https://www.vinylmeplease.com/products/tatyana-shadow-on-the-wall"
+"Silver Bullets","The Silvertones",39,"https://www.vinylmeplease.com/products/the-silvertones-silver-bullets"
+"So When You Gonna…","Dream Wife",24,"https://www.vinylmeplease.com/products/dream-wife-so-when-you-gonna"
+"Sorcery","Jack Dejohnette",50,"https://www.vinylmeplease.com/products/jack-dejohnette-sorcery"
+"Specialist in All Styles","Orchestra Baobab",35,"https://www.vinylmeplease.com/products/orchestra-baobab-specialist-in-all-styles"
+"Sprinter","TORRES",39,"https://www.vinylmeplease.com/products/torres-sprinter"
+"Stankonia","OutKast",47,"https://www.vinylmeplease.com/products/outkast-stankonia-essentials"
+"Startisha","Naeem",22,"https://www.vinylmeplease.com/products/naeem-startisha"
+"Straight From the Heart","Patrice Rushen",39,"https://www.vinylmeplease.com/products/patrice-rushen-straight-from-the-heart"
+"Superstar","Caroline Rose",39,"https://www.vinylmeplease.com/products/caroline-rose-superstar"
+"Swap for Store Credit","Vinyl Me, Please",0,"https://www.vinylmeplease.com/products/store-credit"
+"Swim Team","Christelle Bofale",22,"https://www.vinylmeplease.com/products/christelle-bofale-swim-team-ep"
+"Swing Lo Magellan","Dirty Projectors",29,"https://www.vinylmeplease.com/products/dirty-projectors-swing-lo-magellan-exclusive"
+"Teflon Don","Rick Ross",39,"https://www.vinylmeplease.com/products/rick-ross-teflon-don"
+"The Awakening","Lord Finesse",39,"https://www.vinylmeplease.com/products/lord-finesse-the-awakening"
+"The Center Won't Hold","Sleater-Kinney",39,"https://www.vinylmeplease.com/products/sleater-kinney-center-won-t-hold"
+"The Idler Wheel...","Fiona Apple",35,"https://www.vinylmeplease.com/products/the-idler-wheel"
+"The Lemon of Pink","The Books",39,"https://www.vinylmeplease.com/products/the-books-the-lemon-of-pink-full"
+"The Lost Paramount Tapes","James Booker",39,"https://www.vinylmeplease.com/products/james-booker-the-lost-paramount-tapes"
+"Tidal","Fiona Apple",47,"https://www.vinylmeplease.com/products/fiona-full"
+"U.F.O.","Jim Sullivan",39,"https://www.vinylmeplease.com/products/jim-sullivan-u-f-o"
+"Unapologetic Art Rap","Open Mike Eagle",47,"https://www.vinylmeplease.com/products/open-mike-eagle-unapologetic-art-rap"
+"Waiting For Littⅼe Miⅼton","Little Milton",39,"https://www.vinylmeplease.com/products/little-milton-waiting-for-little-milton"
+"Waking Hours","Photay",19,"https://www.vinylmeplease.com/products/photay-waking-hours"
+"Watch Out!","Vinyl Me, Please",39,"https://www.vinylmeplease.com/products/wells-fargo-watch-out"
+"Watch this Liquid Pour Itself + Believe 7","Okay Kaya",28,"https://www.vinylmeplease.com/products/okay-kaya-watch-this-liquid-pour-itself-out-believe-7"
+"Welcome to Bobby's Motel","Pottery",22,"https://www.vinylmeplease.com/products/pottery-welcome-to-bobbys-motel"
+"When The Pawn...","Fiona Apple",40,"https://www.vinylmeplease.com/products/fiona-apple-when-the-pawn"
+"Where I’m Coming From","Leon Spencer",50,"https://www.vinylmeplease.com/products/leon-spencer-where-im-coming-from"
+"Wicked City","Jockstrap",18,"https://www.vinylmeplease.com/products/jockstrap-wicked-city-ep"
+"Your Hero Is Not Dead","Westerman",25,"https://www.vinylmeplease.com/products/westerman-your-hero-is-not-dead"
+"Yours Conditionally","Tennis",39,"https://www.vinylmeplease.com/products/tennis-yours-conditionally"
