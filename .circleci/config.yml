@@ -31,10 +31,10 @@ workflows:
   build:
     jobs:
       - fetch_and_commit
-  nightly:
+  scheduled-workflow:
     triggers:
       - schedule:
-          cron: "0 0 * * *"
+          cron: "0,5,10,15,30,45 * 1,5,15,24,25,26,27,28,29,30,31 * *"
           filters:
             branches:
               only:
