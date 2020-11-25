@@ -23,7 +23,7 @@ jobs:
             csv-diff VMP_Swaps-old.csv VMP_Swaps.csv --key=Title --singular=swap --plural=swaps > message.txt
             echo $'\n[skip ci]' >> message.txt
             git commit -F message.txt && \
-              git push -q https://${GITHUB_PERSONAL_TOKEN}@github.com/simonw/sf-tree-history.git master \
+              git push -q https://${GITHUB_PERSONAL_TOKEN}@github.com/sircrumpet/vmp-swaps.git main \
               || true
 
 workflows:
@@ -34,10 +34,10 @@ workflows:
   nightly:
     triggers:
       - schedule:
-          cron: "*/15 * 1,5,15,24-31 * *"
+          cron: "0 0 * * *"
           filters:
             branches:
               only:
-                - master
+                - main
     jobs:
       - fetch_and_commit
