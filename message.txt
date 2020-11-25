@@ -1,0 +1,329 @@
+80 swaps added, 1 swap removed
+
+80 swaps added
+
+  Title: A Prince Among Thieves
+  Artist: Prince Paul
+  Price: 47
+
+  Title: África Brasil
+  Artist: Jorge Ben
+  Price: 39
+
+  Title: All Hail The Queen
+  Artist: Queen Latifah
+  Price: 39
+
+  Title: Aromanticism
+  Artist: Moses Sumney
+  Price: 39
+
+  Title: Be The Cowboy
+  Artist: Mitski
+  Price: 39
+
+  Title: Betty Davis
+  Artist: Betty Davis
+  Price: 39
+
+  Title: Big Wave More Fire
+  Artist: DJDS
+  Price: 17
+
+  Title: Boogie Legs
+  Artist: Jake Sollo
+  Price: 23
+
+  Title: Buena Vista Social Club
+  Artist: Buena Vista Social Club
+  Price: 47
+
+  Title: Celia & Johnny
+  Artist: Celia & Johnny
+  Price: 39
+
+  Title: City Music
+  Artist: Kevin Morby
+  Price: 39
+
+  Title: Coal Miner's Daughter
+  Artist: Loretta Lynn
+  Price: 39
+
+  Title: Continuum
+  Artist: John Mayer
+  Price: 47
+
+  Title: Dirty Projectors Bitte Orca
+  Artist: Dirty Projectors
+  Price: 47
+
+  Title: Energy Control Center
+  Artist: The Lightmen Plus One
+  Price: 47
+
+  Title: Fancy Free
+  Artist: Donald Byrd
+  Price: 39
+
+  Title: Fetch the Bolt Cutters
+  Artist: Fiona Apple
+  Price: 35
+
+  Title: Fishscale
+  Artist: Ghostface Killah
+  Price: 47
+
+  Title: Fly or Die
+  Artist: N.E.R.D.
+  Price: 47
+
+  Title: For the Sake of the Song
+  Artist: Townes Van Zandt
+  Price: 39
+
+  Title: Free Yourself
+  Artist: Experience Unlimited
+  Price: 39
+
+  Title: Freedom Suite
+  Artist: Sonny Rollins
+  Price: 39
+
+  Title: Friend and Foe
+  Artist: Menomena
+  Price: 39
+
+  Title: Funkdafied
+  Artist: Da Brat
+  Price: 39
+
+  Title: Hair of the Dog
+  Artist: ARTHUR
+  Price: 25
+
+  Title: Heavy Axe
+  Artist: David Axelrod
+  Price: 50
+
+  Title: Here To Stay
+  Artist: Darrell Banks
+  Price: 39
+
+  Title: High/Low
+  Artist: Nada Surf
+  Price: 39
+
+  Title: Honest
+  Artist: Future
+  Price: 47
+
+  Title: I Got What It Takes
+  Artist: Koko Taylor
+  Price: 39
+
+  Title: I'll Sleep When You're Dead
+  Artist: El-P
+  Price: 47
+
+  Title: It Serve You Right to Suffer
+  Artist: John Lee Hooker
+  Price: 39
+
+  Title: Jujus / Alchemy of the Blues
+  Artist: Sarah Webster Fabio
+  Price: 39
+
+  Title: King
+  Artist: T.I.
+  Price: 47
+
+  Title: King, Does The King's Things
+  Artist: Albert King
+  Price: 39
+
+  Title: Let Me Be Your Lover
+  Artist: Patterson Twins
+  Price: 25
+
+  Title: Long Way Home
+  Artist: Låpsley
+  Price: 39
+
+  Title: Magician
+  Artist: Erroll Garner
+  Price: 39
+
+  Title: Mama's Gun
+  Artist: Erykah Badu
+  Price: 47
+
+  Title: Mavis Staples Mavis Staples
+  Artist: Mavis Staples
+  Price: 39
+
+  Title: MM..FOOD
+  Artist: MF DOOM
+  Price: 47
+
+  Title: Money Talks
+  Artist: The Bar-Kays
+  Price: 39
+
+  Title: Muddy Waters
+  Artist: Redman
+  Price: 47
+
+  Title: Naked Garden
+  Artist: Lukas Nelson and Promise of the Real
+  Price: 30
+
+  Title: Next to the Sun
+  Artist: KAINA
+  Price: 27
+
+  Title: Nothing Great About Britain
+  Artist: slowthai
+  Price: 39
+
+  Title: Old Flowers
+  Artist: Courtney Marie Andrews
+  Price: 26
+
+  Title: Phrenology
+  Artist: The Roots
+  Price: 47
+
+  Title: Pink
+  Artist: Four Tet
+  Price: 39
+
+  Title: Playroom
+  Artist: Nathan Bajar
+  Price: 22
+
+  Title: Pleasurehead
+  Artist: Gaygirl
+  Price: 24
+
+  Title: Posh
+  Artist: Patrice Rushen
+  Price: 23
+
+  Title: pretty face
+  Artist: Deem Spencer
+  Price: 18
+
+  Title: Room for the Moon
+  Artist: Kate NV
+  Price: 28
+
+  Title: Sahara
+  Artist: McCoy Tyner
+  Price: 39
+
+  Title: Shadow on the Wall
+  Artist: TATYANA
+  Price: 20
+
+  Title: Silver Bullets
+  Artist: The Silvertones
+  Price: 39
+
+  Title: So When You Gonna…
+  Artist: Dream Wife
+  Price: 24
+
+  Title: Sorcery
+  Artist: Jack Dejohnette
+  Price: 50
+
+  Title: Specialist in All Styles
+  Artist: Orchestra Baobab
+  Price: 35
+
+  Title: Sprinter
+  Artist: TORRES
+  Price: 39
+
+  Title: Stankonia
+  Artist: OutKast
+  Price: 47
+
+  Title: Startisha
+  Artist: Naeem
+  Price: 22
+
+  Title: Straight From the Heart
+  Artist: Patrice Rushen
+  Price: 39
+
+  Title: Superstar
+  Artist: Caroline Rose
+  Price: 39
+
+  Title: Swap for Store Credit
+  Artist: Vinyl Me, Please
+  Price: 0
+
+  Title: Swim Team
+  Artist: Christelle Bofale
+  Price: 22
+
+  Title: Swing Lo Magellan
+  Artist: Dirty Projectors
+  Price: 29
+
+  Title: Teflon Don
+  Artist: Rick Ross
+  Price: 39
+
+  Title: The Awakening
+  Artist: Lord Finesse
+  Price: 39
+
+  Title: The Center Won't Hold
+  Artist: Sleater-Kinney
+  Price: 39
+
+  Title: The Idler Wheel...
+  Artist: Fiona Apple
+  Price: 35
+
+  Title: The Lemon of Pink
+  Artist: The Books
+  Price: 39
+
+  Title: The Lost Paramount Tapes
+  Artist: James Booker
+  Price: 39
+
+  Title: Tidal
+  Artist: Fiona Apple
+  Price: 47
+
+  Title: U.F.O.
+  Artist: Jim Sullivan
+  Price: 39
+
+  Title: Unapologetic Art Rap
+  Artist: Open Mike Eagle
+  Price: 47
+
+  Title: Waiting For Littⅼe Miⅼton
+  Artist: Little Milton
+  Price: 39
+
+  Title: Waking Hours
+  Artist: Photay
+  Price: 19
+
+  Title: Watch Out!
+  Artist: Vinyl Me, Please
+  Price: 39
+
+1 swap removed
+
+  Title: 303 Music, Vol. 3
+  Artist: Various Artists
+  Price: 24
